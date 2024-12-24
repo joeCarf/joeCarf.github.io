@@ -50,7 +50,4 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 
-  plugins:
-    - jekyll-remote-theme
-
   remote_theme: vszhub/not-pure-poole
