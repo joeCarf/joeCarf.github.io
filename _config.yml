@@ -12,7 +12,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: JoeCarf
-  tagline: Software Engineer @Bytedance
+  tagline: software engineer @bytedance
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
