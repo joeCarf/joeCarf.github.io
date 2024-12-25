@@ -787,8 +787,9 @@ main .about .about-header .about-title {
 
 .post-title {
   line-height: 1.2em;
-  font-size: 28px;
+  font-size: 32px;
   margin-bottom: 10px;
+  margin-top: 20px;
 }
 
 .posts,
@@ -816,13 +817,14 @@ main .about .about-header .about-title {
 }
 
 .post {
-  font-family: "Merriweather", sans-serif;
-  font-weight: 300;
+  font-family: Merriweather, sans-serif;
+  font-weight: 320;
+  font-size: 20px;
   color: #222;
   line-height: 1.9em;
 }
 .post p {
-  margin-top: 10px;
+  margin-top: 30px;
 }
 .post a {
   color: #0a59b0;
